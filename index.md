@@ -1,5 +1,5 @@
 # Welcome to my personal site
-[My image](headshot.jpg)
+![Image of my head and sholders, the background is of a white wall. I am wearing glasses and my tshirt is black.](headshot.jpg)
 My name is Pablo Gratas! I'm curerntly a 3rd year transfer student at UCSD persuing a degree in computer science. I also *love* cooking, cycling, tv, movies, video games, among other hobbies.
 I've lived in Valencia, CA for most of my life, and before UCSD, I went to the local community college, COC, to get degrees in
 
@@ -32,6 +32,7 @@ As more updates come in, I'll be updating this with relevant information. Let's 
 > Reach for the stars, so if you fall, you land on a cloud
 
 [email](mailto:pgratas@ucsd.edu)
+
 [GitHub](https://github.com/PabloGratas)
 
 [Return to top](https://github.com/PabloGratas/PabloGratas.github.io/new/main#welcome-to-my-personal-site)
